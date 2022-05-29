@@ -170,6 +170,10 @@ p > a.linka{
     background-color: var(--cor1);
     font-weight: bold;
 }
+img{
+    margin: auto;
+    display: block;
+}
 footer{
     background-color: var(--cor5);
     color: white;
